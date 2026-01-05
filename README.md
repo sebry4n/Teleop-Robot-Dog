@@ -1,4 +1,3 @@
-Here is the repository documentation converted into a clean and professional Markdown (`README.md`) format in English.
 
 ---
 
